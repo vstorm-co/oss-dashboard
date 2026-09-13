@@ -1,0 +1,18 @@
+{
+  "organization": "vstorm-co",
+  "exclude": [".github", "oss-dashboard", "vstorm-website", "oss-website", "blog-content", "astro-blog"],
+  "packages": {
+    "pydantic-deepagents": ["pydantic-deep"],
+    "full-stack-ai-agent-template": ["fastapi-fullstack"],
+    "pydantic-ai-todo": ["pydantic-ai-todo"],
+    "pydantic-ai-backend": ["pydantic-ai-backend"],
+    "pydantic-ai-shields": ["pydantic-ai-shields"],
+    "subagents-pydantic-ai": ["subagents-pydantic-ai"],
+    "summarization-pydantic-ai": ["summarization-pydantic-ai"],
+    "database-pydantic-ai": ["database-pydantic-ai"],
+    "memv": ["memvee"],
+    "pydantic-ai-rlm": ["pydantic-ai-rlm"],
+    "logfire-assistant": ["polly-logfire"],
+    "agentcanvas": ["agentcanvas"]
+  }
+}

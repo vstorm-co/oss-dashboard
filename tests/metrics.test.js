@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {dates,daily,period,series} from '../metrics.js';
+const p={updatedAt:'2026-01-03T09:00:00Z',snapshots:{'2026-01-01':{stars:10},'2026-01-02':{stars:8}},events:{'2026-01-01':{prs:2,issues:3}},packages:{pkg:{days:{'2026-01-01':10,'2026-01-02':0}}}};
+test('UTC ranges cross leap days and year boundaries',()=>{assert.deepEqual(dates('2024-03-01',3),['2024-02-28','2024-02-29','2024-03-01']);assert.deepEqual(dates('2026-01-01',2),['2025-12-31','2026-01-01']);});
+test('star changes preserve losses and missing baselines',()=>{assert.equal(daily(p,'2026-01-02','stars'),-2);assert.equal(daily(p,'2026-01-01','stars'),null);assert.equal(daily(p,'2026-01-03','stars'),null);});
+test('PRs and issues remain separate',()=>{assert.equal(daily(p,'2026-01-01','prs'),2);assert.equal(daily(p,'2026-01-01','issues'),3);assert.equal(daily(p,'2026-01-02','prs'),0);assert.equal(daily(p,'2026-01-04','prs'),null);});
+test('missing downloads are not zero',()=>{assert.equal(daily(p,'2026-01-02','downloads'),0);assert.equal(daily(p,'2026-01-03','downloads'),null);assert.deepEqual(period([p],dates('2026-01-03',3),'downloads'),{value:10,partial:true});});
+test('monthly aggregation preserves incomplete coverage',()=>{const result=series([p],dates('2026-01-03',3),'downloads','month');assert.deepEqual(result,[{label:'2026-01',value:10,known:2,expected:3}]);});
+test('projects without packages do not mark download totals partial',()=>{assert.deepEqual(period([p,{...p,packages:{}}],dates('2026-01-02',2),'downloads'),{value:10,partial:false});});
+test('multi-package missing day stays unknown',()=>{assert.equal(daily({...p,packages:{...p.packages,other:{days:{}}}},'2026-01-01','downloads'),null);});
