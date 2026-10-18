@@ -1,6 +1,6 @@
 {
   "organization": "vstorm-co",
-  "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+  "updatedAt": "2026-10-18T12:05:10.681971+00:00",
   "projects": [
     {
       "name": "full-stack-ai-agent-template",
@@ -8,7 +8,7 @@
       "description": "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box.",
       "language": "Python",
       "createdAt": "2025-12-19",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1890,
@@ -289,9 +289,21 @@
           "issues": 43,
           "openPrs": 3,
           "openIssues": 1
+        },
+        "2026-10-18": {
+          "stars": 1950,
+          "forks": 389,
+          "prs": 143,
+          "issues": 43,
+          "openPrs": 4,
+          "openIssues": 1
         }
       },
       "events": {
+        "2026-10-17": {
+          "prs": 1,
+          "issues": 0
+        },
         "2026-10-11": {
           "prs": 1,
           "issues": 0
@@ -866,9 +878,10 @@
             "2026-10-13": 105,
             "2026-10-14": 66,
             "2026-10-15": 114,
-            "2026-10-16": 47
+            "2026-10-16": 47,
+            "2026-10-17": 9
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -878,7 +891,7 @@
       "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pydantic AI, any model.",
       "language": "Python",
       "createdAt": "2025-11-29",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1061,
@@ -1153,6 +1166,14 @@
           "openIssues": 1
         },
         "2026-10-17": {
+          "stars": 1102,
+          "forks": 139,
+          "prs": 158,
+          "issues": 75,
+          "openPrs": 0,
+          "openIssues": 1
+        },
+        "2026-10-18": {
           "stars": 1102,
           "forks": 139,
           "prs": 158,
@@ -1844,9 +1865,10 @@
             "2026-10-13": 7686,
             "2026-10-14": 9839,
             "2026-10-15": 9808,
-            "2026-10-16": 7779
+            "2026-10-16": 7779,
+            "2026-10-17": 2470
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -1856,7 +1878,7 @@
       "description": "File Storage & Sandbox Backends for Pydantic AI: console tools for file operations, Docker-isolated sandboxes for safe execution, and permission system with presets for access control. Enables secure multi-user handling and testing in agents via in-memory, local, or containerized storage.",
       "language": "Python",
       "createdAt": "2025-12-28",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 128,
@@ -2131,6 +2153,14 @@
           "openIssues": 1
         },
         "2026-10-17": {
+          "stars": 131,
+          "forks": 27,
+          "prs": 108,
+          "issues": 20,
+          "openPrs": 3,
+          "openIssues": 1
+        },
+        "2026-10-18": {
           "stars": 131,
           "forks": 27,
           "prs": 108,
@@ -2590,396 +2620,12 @@
             "2026-10-13": 17173,
             "2026-10-14": 18219,
             "2026-10-15": 21577,
-            "2026-10-16": 17637
+            "2026-10-16": 17637,
+            "2026-10-17": 7772
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
-    },
-    {
-      "name": "awesome-pydantic-ai",
-      "url": "https://github.com/vstorm-co/awesome-pydantic-ai",
-      "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
-      "language": null,
-      "createdAt": "2026-01-18",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
-      "snapshots": {
-        "2026-09-13": {
-          "stars": 106,
-          "forks": 19,
-          "prs": 18,
-          "issues": 0,
-          "openPrs": 1,
-          "openIssues": 0
-        },
-        "2026-09-14": {
-          "stars": 106,
-          "forks": 19,
-          "prs": 18,
-          "issues": 0,
-          "openPrs": 1,
-          "openIssues": 0
-        },
-        "2026-09-15": {
-          "stars": 106,
-          "forks": 19,
-          "prs": 18,
-          "issues": 0,
-          "openPrs": 1,
-          "openIssues": 0
-        },
-        "2026-09-16": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-17": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-18": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-19": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-20": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-21": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-22": {
-          "stars": 106,
-          "forks": 20,
-          "prs": 19,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-09-23": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-24": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-25": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-26": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-27": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-28": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-09-29": {
-          "stars": 106,
-          "forks": 21,
-          "prs": 20,
-          "issues": 0,
-          "openPrs": 3,
-          "openIssues": 0
-        },
-        "2026-09-30": {
-          "stars": 106,
-          "forks": 21,
-          "prs": 20,
-          "issues": 0,
-          "openPrs": 3,
-          "openIssues": 0
-        },
-        "2026-10-01": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-10-02": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-10-03": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-10-04": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 21,
-          "issues": 0,
-          "openPrs": 4,
-          "openIssues": 0
-        },
-        "2026-10-05": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 22,
-          "issues": 0,
-          "openPrs": 0,
-          "openIssues": 0
-        },
-        "2026-10-06": {
-          "stars": 106,
-          "forks": 22,
-          "prs": 22,
-          "issues": 0,
-          "openPrs": 0,
-          "openIssues": 0
-        },
-        "2026-10-07": {
-          "stars": 107,
-          "forks": 22,
-          "prs": 22,
-          "issues": 0,
-          "openPrs": 0,
-          "openIssues": 0
-        },
-        "2026-10-08": {
-          "stars": 107,
-          "forks": 22,
-          "prs": 22,
-          "issues": 0,
-          "openPrs": 0,
-          "openIssues": 0
-        },
-        "2026-10-09": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 23,
-          "issues": 0,
-          "openPrs": 1,
-          "openIssues": 0
-        },
-        "2026-10-10": {
-          "stars": 107,
-          "forks": 22,
-          "prs": 23,
-          "issues": 0,
-          "openPrs": 1,
-          "openIssues": 0
-        },
-        "2026-10-11": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-12": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-13": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-14": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-15": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-16": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        },
-        "2026-10-17": {
-          "stars": 107,
-          "forks": 23,
-          "prs": 24,
-          "issues": 0,
-          "openPrs": 2,
-          "openIssues": 0
-        }
-      },
-      "events": {
-        "2026-10-11": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-10-08": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-10-05": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-09-23": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-09-22": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-09-16": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-09-12": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-08-01": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-07-26": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-07-15": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-07-05": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-06-19": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-06-11": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-06-06": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-05-22": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-04-13": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-04-11": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-04-08": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-03-18": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-02-03": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-01-24": {
-          "prs": 1,
-          "issues": 0
-        },
-        "2026-01-19": {
-          "prs": 2,
-          "issues": 0
-        },
-        "2026-01-18": {
-          "prs": 1,
-          "issues": 0
-        }
-      },
-      "packages": {}
     },
     {
       "name": "agenticos",
@@ -2987,7 +2633,7 @@
       "description": "Open-source AI teammates for your company. The self-hosted agent layer: build, run and govern AI agents on your own servers, models and rules. RAG, skills, a real browser, 4,700+ MCP servers and an API, with budgets, approvals and an audit trail. Apache-2.0, built on Pydantic AI.",
       "language": "Python",
       "createdAt": "2026-07-31",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 36,
@@ -3268,11 +2914,23 @@
           "issues": 888,
           "openPrs": 34,
           "openIssues": 114
+        },
+        "2026-10-18": {
+          "stars": 108,
+          "forks": 22,
+          "prs": 1286,
+          "issues": 888,
+          "openPrs": 18,
+          "openIssues": 104
         }
       },
       "events": {
+        "2026-10-18": {
+          "prs": 9,
+          "issues": 0
+        },
         "2026-10-17": {
-          "prs": 1,
+          "prs": 6,
           "issues": 3
         },
         "2026-10-16": {
@@ -3571,12 +3229,405 @@
       "packages": {}
     },
     {
+      "name": "awesome-pydantic-ai",
+      "url": "https://github.com/vstorm-co/awesome-pydantic-ai",
+      "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+      "language": null,
+      "createdAt": "2026-01-18",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
+      "snapshots": {
+        "2026-09-13": {
+          "stars": 106,
+          "forks": 19,
+          "prs": 18,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-09-14": {
+          "stars": 106,
+          "forks": 19,
+          "prs": 18,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-09-15": {
+          "stars": 106,
+          "forks": 19,
+          "prs": 18,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-09-16": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-17": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-18": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-19": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-20": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-21": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-22": {
+          "stars": 106,
+          "forks": 20,
+          "prs": 19,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-09-23": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-24": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-25": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-26": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-27": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-28": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-09-29": {
+          "stars": 106,
+          "forks": 21,
+          "prs": 20,
+          "issues": 0,
+          "openPrs": 3,
+          "openIssues": 0
+        },
+        "2026-09-30": {
+          "stars": 106,
+          "forks": 21,
+          "prs": 20,
+          "issues": 0,
+          "openPrs": 3,
+          "openIssues": 0
+        },
+        "2026-10-01": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-10-02": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-10-03": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-10-04": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 21,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
+        },
+        "2026-10-05": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 22,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-06": {
+          "stars": 106,
+          "forks": 22,
+          "prs": 22,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-07": {
+          "stars": 107,
+          "forks": 22,
+          "prs": 22,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-08": {
+          "stars": 107,
+          "forks": 22,
+          "prs": 22,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-09": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 23,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-10-10": {
+          "stars": 107,
+          "forks": 22,
+          "prs": 23,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-10-11": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-12": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-13": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-14": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-15": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-16": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-17": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        },
+        "2026-10-18": {
+          "stars": 107,
+          "forks": 23,
+          "prs": 24,
+          "issues": 0,
+          "openPrs": 2,
+          "openIssues": 0
+        }
+      },
+      "events": {
+        "2026-10-11": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-10-08": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-10-05": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-09-23": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-09-22": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-09-16": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-09-12": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-08-01": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-07-26": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-07-15": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-07-05": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-06-19": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-06-11": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-06-06": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-05-22": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-04-13": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-04-11": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-04-08": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-03-18": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-02-03": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-01-24": {
+          "prs": 1,
+          "issues": 0
+        },
+        "2026-01-19": {
+          "prs": 2,
+          "issues": 0
+        },
+        "2026-01-18": {
+          "prs": 1,
+          "issues": 0
+        }
+      },
+      "packages": {}
+    },
+    {
       "name": "pydantic-ai-shields",
       "url": "https://github.com/vstorm-co/pydantic-ai-shields",
       "description": "Guardrail capabilities for Pydantic AI — cost tracking, prompt injection detection, PII filtering, secret redaction, tool permissions, and async guardrails. Built on pydantic-ai's native capabilities API.",
       "language": "Python",
       "createdAt": "2025-12-28",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 93,
@@ -3851,6 +3902,14 @@
           "openIssues": 2
         },
         "2026-10-17": {
+          "stars": 95,
+          "forks": 11,
+          "prs": 28,
+          "issues": 15,
+          "openPrs": 1,
+          "openIssues": 2
+        },
+        "2026-10-18": {
           "stars": 95,
           "forks": 11,
           "prs": 28,
@@ -4194,9 +4253,10 @@
             "2026-10-13": 14558,
             "2026-10-14": 14992,
             "2026-10-15": 13564,
-            "2026-10-16": 11049
+            "2026-10-16": 11049,
+            "2026-10-17": 4899
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -4206,7 +4266,7 @@
       "description": "Visualize Pydantic AI agent workflows from Logfire traces as an interactive HTML diagram — tools, nested sub-agents, tokens and exact cost.",
       "language": "Python",
       "createdAt": "2026-06-12",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 82,
@@ -4487,6 +4547,14 @@
           "issues": 4,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-18": {
+          "stars": 85,
+          "forks": 9,
+          "prs": 3,
+          "issues": 4,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {
@@ -4594,9 +4662,10 @@
             "2026-10-13": 21,
             "2026-10-14": 57,
             "2026-10-15": 63,
-            "2026-10-16": 46
+            "2026-10-16": 46,
+            "2026-10-17": 8
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -4606,7 +4675,7 @@
       "description": "Task Planning and Tracking toolset for Pydantic AI agents, enabling hierarchical task management with subtasks, PostgreSQL storage for multi-tenancy, and an event system for webhooks and callbacks. ",
       "language": "Python",
       "createdAt": "2025-12-23",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 76,
@@ -4881,6 +4950,14 @@
           "openIssues": 1
         },
         "2026-10-17": {
+          "stars": 76,
+          "forks": 18,
+          "prs": 37,
+          "issues": 10,
+          "openPrs": 2,
+          "openIssues": 1
+        },
+        "2026-10-18": {
           "stars": 76,
           "forks": 18,
           "prs": 37,
@@ -5240,9 +5317,10 @@
             "2026-10-13": 16149,
             "2026-10-14": 19537,
             "2026-10-15": 15396,
-            "2026-10-16": 13036
+            "2026-10-16": 13036,
+            "2026-10-17": 4210
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -5252,7 +5330,7 @@
       "description": "Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.",
       "language": "Python",
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 71,
@@ -5527,6 +5605,14 @@
           "openIssues": 1
         },
         "2026-10-17": {
+          "stars": 73,
+          "forks": 12,
+          "prs": 36,
+          "issues": 10,
+          "openPrs": 2,
+          "openIssues": 1
+        },
+        "2026-10-18": {
           "stars": 73,
           "forks": 12,
           "prs": 36,
@@ -5886,9 +5972,10 @@
             "2026-10-13": 13320,
             "2026-10-14": 16839,
             "2026-10-15": 15371,
-            "2026-10-16": 12860
+            "2026-10-16": 12860,
+            "2026-10-17": 4209
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -5898,7 +5985,7 @@
       "description": "Pydantic AI RLM - Handle Extremely Large Contexts with Any LLM Provider",
       "language": "Python",
       "createdAt": "2026-01-27",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 63,
@@ -6179,6 +6266,14 @@
           "issues": 2,
           "openPrs": 0,
           "openIssues": 1
+        },
+        "2026-10-18": {
+          "stars": 64,
+          "forks": 8,
+          "prs": 2,
+          "issues": 2,
+          "openPrs": 0,
+          "openIssues": 1
         }
       },
       "events": {
@@ -6412,9 +6507,10 @@
             "2026-10-13": 206,
             "2026-10-14": 210,
             "2026-10-15": 304,
-            "2026-10-16": 473
+            "2026-10-16": 473,
+            "2026-10-17": 48
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -6424,7 +6520,7 @@
       "description": "Subagent Delegation framework for Pydantic AI, enabling nested subagents that can spawn their own specialists on-the-fly, with smart sync/async/auto mode selection, runtime agent creation, and clean multi-agent architecture. Adds specialization, parallel execution, and task cancellation.",
       "language": "Python",
       "createdAt": "2026-01-19",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 61,
@@ -6699,6 +6795,14 @@
           "openIssues": 1
         },
         "2026-10-17": {
+          "stars": 62,
+          "forks": 19,
+          "prs": 87,
+          "issues": 15,
+          "openPrs": 4,
+          "openIssues": 1
+        },
+        "2026-10-18": {
           "stars": 62,
           "forks": 19,
           "prs": 87,
@@ -7158,9 +7262,10 @@
             "2026-10-13": 12391,
             "2026-10-14": 16163,
             "2026-10-15": 14940,
-            "2026-10-16": 12118
+            "2026-10-16": 12118,
+            "2026-10-17": 3920
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -7170,7 +7275,7 @@
       "description": "Skill pack that turns any coding agent (Claude Code, Codex, AGENTS.md-compatible) into a senior production engineer — FastAPI, PostgreSQL, Docker, deployment, security, observability.",
       "language": "Python",
       "createdAt": "2026-04-15",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 25,
@@ -7445,6 +7550,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 26,
+          "forks": 7,
+          "prs": 3,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 26,
           "forks": 7,
           "prs": 3,
@@ -7467,7 +7580,7 @@
       "description": "Content studio skill pack for coding agents — blog, social, slides, video, infographics — all brand-aware with built-in anti-slop. Works with Claude Code, Codex, and AGENTS.md.",
       "language": "Python",
       "createdAt": "2026-04-16",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 22,
@@ -7742,6 +7855,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 25,
+          "forks": 4,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 25,
           "forks": 4,
           "prs": 0,
@@ -7759,7 +7880,7 @@
       "description": "Database toolset for PydanticAI — schema exploration, SQL queries, and data analysis with read-only mode, query validation, and row limits.",
       "language": "Python",
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 22,
@@ -8034,6 +8155,14 @@
           "openIssues": 4
         },
         "2026-10-17": {
+          "stars": 22,
+          "forks": 6,
+          "prs": 10,
+          "issues": 6,
+          "openPrs": 0,
+          "openIssues": 4
+        },
+        "2026-10-18": {
           "stars": 22,
           "forks": 6,
           "prs": 10,
@@ -8214,9 +8343,10 @@
             "2026-10-10": 1,
             "2026-10-13": 1,
             "2026-10-15": 1,
-            "2026-10-16": 2
+            "2026-10-16": 2,
+            "2026-10-17": 3
           },
-          "updatedAt": "2026-10-17T11:38:52.640555+00:00"
+          "updatedAt": "2026-10-18T12:05:10.681971+00:00"
         }
       }
     },
@@ -8226,7 +8356,7 @@
       "description": "A community-maintained collection of Pydantic AI examples.",
       "language": "Python",
       "createdAt": "2025-12-30",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 19,
@@ -8501,6 +8631,14 @@
           "openIssues": 2
         },
         "2026-10-17": {
+          "stars": 19,
+          "forks": 2,
+          "prs": 8,
+          "issues": 8,
+          "openPrs": 0,
+          "openIssues": 2
+        },
+        "2026-10-18": {
           "stars": 19,
           "forks": 2,
           "prs": 8,
@@ -8551,7 +8689,7 @@
       "description": "AI-powered tool that helps you debug, analyze, and understand your applications using Pydantic Logfire.",
       "language": "Python",
       "createdAt": "2026-02-01",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 17,
@@ -8826,6 +8964,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 17,
+          "forks": 3,
+          "prs": 1,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 17,
           "forks": 3,
           "prs": 1,
@@ -8853,7 +8999,7 @@
       "description": "Auditable, open-source macOS disk cleaner with a local GUI. Scan, review, and you approve every deletion. Zero runtime dependencies, Trash by default, nothing leaves your machine.",
       "language": "TypeScript",
       "createdAt": "2026-06-30",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 3,
@@ -9129,6 +9275,14 @@
         },
         "2026-10-17": {
           "stars": 5,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
+          "stars": 6,
           "forks": 0,
           "prs": 0,
           "issues": 0,
@@ -9145,7 +9299,7 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "JavaScript",
       "createdAt": "2025-04-16",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 2,
@@ -9420,6 +9574,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 2,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 2,
           "forks": 0,
           "prs": 0,
@@ -9437,7 +9599,7 @@
       "description": "",
       "language": null,
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -9712,6 +9874,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 5,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 1,
           "forks": 0,
           "prs": 5,
@@ -9746,7 +9916,7 @@
       "description": "Menu-bar macOS app — press a hotkey (or double-click) to screenshot your screen, ask OpenAI, and get the answer in a floating panel that never steals focus.",
       "language": "Swift",
       "createdAt": "2026-05-16",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -10021,6 +10191,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 1,
           "forks": 0,
           "prs": 0,
@@ -10038,7 +10216,7 @@
       "description": "",
       "language": null,
       "createdAt": "2026-08-06",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -10313,6 +10491,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 1,
           "forks": 0,
           "prs": 0,
@@ -10325,12 +10511,37 @@
       "packages": {}
     },
     {
+      "name": "vstormos-landing",
+      "url": "https://github.com/vstorm-co/vstormos-landing",
+      "description": "Landing page for AgenticOS, the open-source, self-hosted agent layer for a company's AI teammates. Built by Vstorm. Static Next.js, deployed to GitHub Pages.",
+      "language": "TypeScript",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
+      "snapshots": {
+        "2026-10-18": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 2,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        }
+      },
+      "events": {
+        "2026-10-17": {
+          "prs": 2,
+          "issues": 0
+        }
+      },
+      "packages": {}
+    },
+    {
       "name": "eurlex-advanced-rag",
       "url": "https://github.com/vstorm-co/eurlex-advanced-rag",
       "description": "",
       "language": "Python",
       "createdAt": "2025-08-25",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -10605,6 +10816,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
@@ -10622,7 +10841,7 @@
       "description": "",
       "language": null,
       "createdAt": "2025-12-10",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -10897,6 +11116,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
@@ -10914,7 +11141,7 @@
       "description": "",
       "language": "TypeScript",
       "createdAt": "2026-06-23",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -11189,6 +11416,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 7,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 0,
           "forks": 0,
           "prs": 7,
@@ -11231,7 +11466,7 @@
       "description": "medical_agent — FastAPI AI agent",
       "language": "TypeScript",
       "createdAt": "2026-06-23",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -11512,6 +11747,14 @@
           "issues": 0,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-18": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 4,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {
@@ -11540,7 +11783,7 @@
       "description": "",
       "language": "Python",
       "createdAt": "2026-10-01",
-      "updatedAt": "2026-10-17T11:38:52.640555+00:00",
+      "updatedAt": "2026-10-18T12:05:10.681971+00:00",
       "snapshots": {
         "2026-10-05": {
           "stars": 0,
@@ -11639,6 +11882,14 @@
           "openIssues": 0
         },
         "2026-10-17": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-18": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
