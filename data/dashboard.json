@@ -1,6 +1,6 @@
 {
   "organization": "vstorm-co",
-  "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+  "updatedAt": "2026-10-24T12:02:29.068660+00:00",
   "projects": [
     {
       "name": "full-stack-ai-agent-template",
@@ -8,7 +8,7 @@
       "description": "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box.",
       "language": "Python",
       "createdAt": "2025-12-19",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1890,
@@ -337,9 +337,21 @@
           "issues": 43,
           "openPrs": 6,
           "openIssues": 1
+        },
+        "2026-10-24": {
+          "stars": 1955,
+          "forks": 390,
+          "prs": 146,
+          "issues": 43,
+          "openPrs": 7,
+          "openIssues": 1
         }
       },
       "events": {
+        "2026-10-23": {
+          "prs": 1,
+          "issues": 0
+        },
         "2026-10-22": {
           "prs": 1,
           "issues": 0
@@ -932,9 +944,10 @@
             "2026-10-19": 44,
             "2026-10-20": 23,
             "2026-10-21": 143,
-            "2026-10-22": 103
+            "2026-10-22": 103,
+            "2026-10-23": 20
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -944,7 +957,7 @@
       "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pydantic AI, any model.",
       "language": "Python",
       "createdAt": "2025-11-29",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1061,
@@ -1268,6 +1281,14 @@
         },
         "2026-10-23": {
           "stars": 1105,
+          "forks": 140,
+          "prs": 159,
+          "issues": 76,
+          "openPrs": 1,
+          "openIssues": 2
+        },
+        "2026-10-24": {
+          "stars": 1106,
           "forks": 140,
           "prs": 159,
           "issues": 76,
@@ -1972,9 +1993,10 @@
             "2026-10-19": 7315,
             "2026-10-20": 11376,
             "2026-10-21": 8744,
-            "2026-10-22": 10984
+            "2026-10-22": 10984,
+            "2026-10-23": 6974
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -1984,7 +2006,7 @@
       "description": "File Storage & Sandbox Backends for Pydantic AI: console tools for file operations, Docker-isolated sandboxes for safe execution, and permission system with presets for access control. Enables secure multi-user handling and testing in agents via in-memory, local, or containerized storage.",
       "language": "Python",
       "createdAt": "2025-12-28",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 128,
@@ -2307,6 +2329,14 @@
           "openIssues": 1
         },
         "2026-10-23": {
+          "stars": 131,
+          "forks": 27,
+          "prs": 118,
+          "issues": 20,
+          "openPrs": 2,
+          "openIssues": 1
+        },
+        "2026-10-24": {
           "stars": 131,
           "forks": 27,
           "prs": 118,
@@ -2784,9 +2814,10 @@
             "2026-10-19": 17149,
             "2026-10-20": 20782,
             "2026-10-21": 25556,
-            "2026-10-22": 22290
+            "2026-10-22": 22290,
+            "2026-10-23": 13038
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -2796,7 +2827,7 @@
       "description": "Open-source AI teammates for your company. The self-hosted agent layer: build, run and govern AI agents on your own servers, models and rules. RAG, skills, a real browser, 4,700+ MCP servers and an API, with budgets, approvals and an audit trail. Apache-2.0, built on Pydantic AI.",
       "language": "Python",
       "createdAt": "2026-07-31",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 36,
@@ -3125,12 +3156,24 @@
           "issues": 998,
           "openPrs": 23,
           "openIssues": 171
+        },
+        "2026-10-24": {
+          "stars": 118,
+          "forks": 23,
+          "prs": 1430,
+          "issues": 1004,
+          "openPrs": 17,
+          "openIssues": 167
         }
       },
       "events": {
+        "2026-10-24": {
+          "prs": 12,
+          "issues": 5
+        },
         "2026-10-23": {
-          "prs": 11,
-          "issues": 13
+          "prs": 25,
+          "issues": 14
         },
         "2026-10-22": {
           "prs": 25,
@@ -3457,7 +3500,7 @@
       "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
       "language": null,
       "createdAt": "2026-01-18",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 106,
@@ -3786,9 +3829,21 @@
           "issues": 0,
           "openPrs": 3,
           "openIssues": 0
+        },
+        "2026-10-24": {
+          "stars": 107,
+          "forks": 27,
+          "prs": 28,
+          "issues": 0,
+          "openPrs": 4,
+          "openIssues": 0
         }
       },
       "events": {
+        "2026-10-23": {
+          "prs": 1,
+          "issues": 0
+        },
         "2026-10-22": {
           "prs": 1,
           "issues": 0
@@ -3902,7 +3957,7 @@
       "description": "Guardrail capabilities for Pydantic AI — cost tracking, prompt injection detection, PII filtering, secret redaction, tool permissions, and async guardrails. Built on pydantic-ai's native capabilities API.",
       "language": "Python",
       "createdAt": "2025-12-28",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 93,
@@ -4225,6 +4280,14 @@
           "openIssues": 2
         },
         "2026-10-23": {
+          "stars": 94,
+          "forks": 11,
+          "prs": 28,
+          "issues": 15,
+          "openPrs": 1,
+          "openIssues": 2
+        },
+        "2026-10-24": {
           "stars": 94,
           "forks": 11,
           "prs": 28,
@@ -4574,9 +4637,10 @@
             "2026-10-19": 11448,
             "2026-10-20": 14266,
             "2026-10-21": 15017,
-            "2026-10-22": 15354
+            "2026-10-22": 15354,
+            "2026-10-23": 8834
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -4586,7 +4650,7 @@
       "description": "Visualize Pydantic AI agent workflows from Logfire traces as an interactive HTML diagram — tools, nested sub-agents, tokens and exact cost.",
       "language": "Python",
       "createdAt": "2026-06-12",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 82,
@@ -4915,6 +4979,14 @@
           "issues": 4,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-24": {
+          "stars": 85,
+          "forks": 9,
+          "prs": 3,
+          "issues": 4,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {
@@ -5028,9 +5100,10 @@
             "2026-10-19": 6,
             "2026-10-20": 66,
             "2026-10-21": 35,
-            "2026-10-22": 306
+            "2026-10-22": 306,
+            "2026-10-23": 350
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -5040,7 +5113,7 @@
       "description": "Task Planning and Tracking toolset for Pydantic AI agents, enabling hierarchical task management with subtasks, PostgreSQL storage for multi-tenancy, and an event system for webhooks and callbacks. ",
       "language": "Python",
       "createdAt": "2025-12-23",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 76,
@@ -5363,6 +5436,14 @@
           "openIssues": 1
         },
         "2026-10-23": {
+          "stars": 76,
+          "forks": 18,
+          "prs": 37,
+          "issues": 10,
+          "openPrs": 2,
+          "openIssues": 1
+        },
+        "2026-10-24": {
           "stars": 76,
           "forks": 18,
           "prs": 37,
@@ -5728,9 +5809,10 @@
             "2026-10-19": 13676,
             "2026-10-20": 16713,
             "2026-10-21": 15787,
-            "2026-10-22": 17014
+            "2026-10-22": 17014,
+            "2026-10-23": 11816
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -5740,7 +5822,7 @@
       "description": "Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.",
       "language": "Python",
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 71,
@@ -6063,6 +6145,14 @@
           "openIssues": 1
         },
         "2026-10-23": {
+          "stars": 73,
+          "forks": 12,
+          "prs": 36,
+          "issues": 10,
+          "openPrs": 2,
+          "openIssues": 1
+        },
+        "2026-10-24": {
           "stars": 73,
           "forks": 12,
           "prs": 36,
@@ -6428,9 +6518,10 @@
             "2026-10-19": 10785,
             "2026-10-20": 16975,
             "2026-10-21": 14530,
-            "2026-10-22": 15424
+            "2026-10-22": 15424,
+            "2026-10-23": 12369
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -6440,7 +6531,7 @@
       "description": "Pydantic AI RLM - Handle Extremely Large Contexts with Any LLM Provider",
       "language": "Python",
       "createdAt": "2026-01-27",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 63,
@@ -6769,6 +6860,14 @@
           "issues": 2,
           "openPrs": 0,
           "openIssues": 1
+        },
+        "2026-10-24": {
+          "stars": 64,
+          "forks": 8,
+          "prs": 2,
+          "issues": 2,
+          "openPrs": 0,
+          "openIssues": 1
         }
       },
       "events": {
@@ -7008,9 +7107,10 @@
             "2026-10-19": 268,
             "2026-10-20": 301,
             "2026-10-21": 398,
-            "2026-10-22": 222
+            "2026-10-22": 222,
+            "2026-10-23": 176
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -7020,7 +7120,7 @@
       "description": "Subagent Delegation framework for Pydantic AI, enabling nested subagents that can spawn their own specialists on-the-fly, with smart sync/async/auto mode selection, runtime agent creation, and clean multi-agent architecture. Adds specialization, parallel execution, and task cancellation.",
       "language": "Python",
       "createdAt": "2026-01-19",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 61,
@@ -7343,6 +7443,14 @@
           "openIssues": 1
         },
         "2026-10-23": {
+          "stars": 62,
+          "forks": 19,
+          "prs": 87,
+          "issues": 15,
+          "openPrs": 4,
+          "openIssues": 1
+        },
+        "2026-10-24": {
           "stars": 62,
           "forks": 19,
           "prs": 87,
@@ -7808,9 +7916,10 @@
             "2026-10-19": 11301,
             "2026-10-20": 16304,
             "2026-10-21": 13979,
-            "2026-10-22": 16966
+            "2026-10-22": 16966,
+            "2026-10-23": 12762
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -7820,7 +7929,7 @@
       "description": "Skill pack that turns any coding agent (Claude Code, Codex, AGENTS.md-compatible) into a senior production engineer — FastAPI, PostgreSQL, Docker, deployment, security, observability.",
       "language": "Python",
       "createdAt": "2026-04-15",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 25,
@@ -8143,6 +8252,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 26,
+          "forks": 8,
+          "prs": 3,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 26,
           "forks": 8,
           "prs": 3,
@@ -8165,7 +8282,7 @@
       "description": "Content studio skill pack for coding agents — blog, social, slides, video, infographics — all brand-aware with built-in anti-slop. Works with Claude Code, Codex, and AGENTS.md.",
       "language": "Python",
       "createdAt": "2026-04-16",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 22,
@@ -8494,6 +8611,14 @@
           "issues": 0,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-24": {
+          "stars": 26,
+          "forks": 5,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {},
@@ -8505,7 +8630,7 @@
       "description": "Database toolset for PydanticAI — schema exploration, SQL queries, and data analysis with read-only mode, query validation, and row limits.",
       "language": "Python",
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 22,
@@ -8828,6 +8953,14 @@
           "openIssues": 4
         },
         "2026-10-23": {
+          "stars": 22,
+          "forks": 6,
+          "prs": 10,
+          "issues": 6,
+          "openPrs": 0,
+          "openIssues": 4
+        },
+        "2026-10-24": {
           "stars": 22,
           "forks": 6,
           "prs": 10,
@@ -9014,9 +9147,10 @@
             "2026-10-19": 2,
             "2026-10-20": 2,
             "2026-10-21": 2,
-            "2026-10-22": 1
+            "2026-10-22": 1,
+            "2026-10-23": 2
           },
-          "updatedAt": "2026-10-23T12:39:29.210482+00:00"
+          "updatedAt": "2026-10-24T12:02:29.068660+00:00"
         }
       }
     },
@@ -9026,7 +9160,7 @@
       "description": "A community-maintained collection of Pydantic AI examples.",
       "language": "Python",
       "createdAt": "2025-12-30",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 19,
@@ -9349,6 +9483,14 @@
           "openIssues": 2
         },
         "2026-10-23": {
+          "stars": 20,
+          "forks": 2,
+          "prs": 8,
+          "issues": 8,
+          "openPrs": 0,
+          "openIssues": 2
+        },
+        "2026-10-24": {
           "stars": 20,
           "forks": 2,
           "prs": 8,
@@ -9399,7 +9541,7 @@
       "description": "AI-powered tool that helps you debug, analyze, and understand your applications using Pydantic Logfire.",
       "language": "Python",
       "createdAt": "2026-02-01",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 17,
@@ -9722,6 +9864,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 17,
+          "forks": 3,
+          "prs": 1,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 17,
           "forks": 3,
           "prs": 1,
@@ -9749,7 +9899,7 @@
       "description": "Auditable, open-source macOS disk cleaner with a local GUI. Scan, review, and you approve every deletion. Zero runtime dependencies, Trash by default, nothing leaves your machine.",
       "language": "TypeScript",
       "createdAt": "2026-06-30",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 3,
@@ -10072,6 +10222,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 6,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 6,
           "forks": 0,
           "prs": 0,
@@ -10089,7 +10247,7 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "JavaScript",
       "createdAt": "2025-04-16",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 2,
@@ -10412,6 +10570,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 2,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 2,
           "forks": 0,
           "prs": 0,
@@ -10429,7 +10595,7 @@
       "description": "",
       "language": null,
       "createdAt": "2026-01-20",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -10752,6 +10918,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 5,
+          "issues": 0,
+          "openPrs": 1,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 1,
           "forks": 0,
           "prs": 5,
@@ -10786,7 +10960,7 @@
       "description": "Menu-bar macOS app — press a hotkey (or double-click) to screenshot your screen, ask OpenAI, and get the answer in a floating panel that never steals focus.",
       "language": "Swift",
       "createdAt": "2026-05-16",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -11109,6 +11283,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 1,
           "forks": 0,
           "prs": 0,
@@ -11126,7 +11308,7 @@
       "description": "",
       "language": null,
       "createdAt": "2026-08-06",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 1,
@@ -11455,6 +11637,14 @@
           "issues": 0,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-24": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {},
@@ -11466,7 +11656,7 @@
       "description": "Landing page for AgenticOS, the open-source, self-hosted agent layer for a company's AI teammates. Built by Vstorm. Static Next.js, deployed to GitHub Pages.",
       "language": "TypeScript",
       "createdAt": "2026-10-17",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-10-18": {
           "stars": 1,
@@ -11509,6 +11699,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 1,
+          "forks": 0,
+          "prs": 6,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 1,
           "forks": 0,
           "prs": 6,
@@ -11539,7 +11737,7 @@
       "description": "",
       "language": "Python",
       "createdAt": "2025-08-25",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -11862,6 +12060,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
@@ -11879,7 +12085,7 @@
       "description": "",
       "language": null,
       "createdAt": "2025-12-10",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -12202,6 +12408,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
@@ -12219,7 +12433,7 @@
       "description": "",
       "language": "TypeScript",
       "createdAt": "2026-06-23",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -12542,6 +12756,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 7,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 0,
           "forks": 0,
           "prs": 7,
@@ -12584,7 +12806,7 @@
       "description": "medical_agent — FastAPI AI agent",
       "language": "TypeScript",
       "createdAt": "2026-06-23",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-09-13": {
           "stars": 0,
@@ -12913,6 +13135,14 @@
           "issues": 0,
           "openPrs": 0,
           "openIssues": 0
+        },
+        "2026-10-24": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 4,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
         }
       },
       "events": {
@@ -12941,7 +13171,7 @@
       "description": "",
       "language": "Python",
       "createdAt": "2026-10-01",
-      "updatedAt": "2026-10-23T12:39:29.210482+00:00",
+      "updatedAt": "2026-10-24T12:02:29.068660+00:00",
       "snapshots": {
         "2026-10-05": {
           "stars": 0,
@@ -13088,6 +13318,14 @@
           "openIssues": 0
         },
         "2026-10-23": {
+          "stars": 0,
+          "forks": 0,
+          "prs": 0,
+          "issues": 0,
+          "openPrs": 0,
+          "openIssues": 0
+        },
+        "2026-10-24": {
           "stars": 0,
           "forks": 0,
           "prs": 0,
